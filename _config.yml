@@ -1,0 +1,14 @@
+layout_spectrum: 0.16347578191198409
+typography_spectrum: 0.33898077299818397
+color:
+  brandStrength: 0.7461745943874121
+  lightness: 0.5391397597268224
+  saturation: 0.8777323004323989
+  rhythmicContrast: 0.6440822223667055
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: AI
